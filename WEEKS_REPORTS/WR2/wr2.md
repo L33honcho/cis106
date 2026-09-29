@@ -7,4 +7,4 @@
 ![debian-desktop](debian-desktop.png)
 
 ## Discussion response
-![discussion2response](discussion%202%20response.png)
+![discussionboardresponse](discussionboardresponse.png)
