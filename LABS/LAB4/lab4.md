@@ -16,4 +16,4 @@
 ![q3.2](q3.2.png)
 
 ## Challenge Question
-![challenge_lab4](challenge_lab4.sh)
+[challenge_lab4](challenge_lab4.sh)

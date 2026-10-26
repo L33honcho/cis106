@@ -1,7 +1,10 @@
 #!/bin/bash
--
+
+line="-----------------------------------------------------------------"
+
+echo "$line"
 figlet System
-echo "DATE UTC:" \-e -t "$(date -u '+%D %T')"
+echo "DATE UTC:"  "$(date -u '+%D %T')"
 echo "HOSTNAME:" "$(hostname)"
 echo "UPTIME:" "$(uptime -p)"
 echo "USER:" "$(whoami)"
@@ -11,4 +14,4 @@ free -h
 
 figlet DISk
 df -h /
--
+echo "$line"
