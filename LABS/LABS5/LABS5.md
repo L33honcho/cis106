@@ -10,5 +10,4 @@
 
 ## Question3 
 ![question3.shot1](question3.shot1.png)
-![questionn3.shot2](question3.shot2.png
-)
+![questionn3.shot2](question3.shot2.png)
