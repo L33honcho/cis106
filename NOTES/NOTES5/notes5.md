@@ -53,4 +53,4 @@
    1.  the location of a file starting from the current working directory or a directory that is located inside the current working directory.
     * Downloads/song.mp3
 10. ***What is the difference between "Your home directory" and "The home directory"?***
-    1.  
+    1.  Your home directory is your current working directory meanwhile the home directory is when you  open the file manager. 
