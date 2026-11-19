@@ -78,3 +78,14 @@
     * Sort a file and save the output to a new file
   * sort -k 2 users.txt
     *  Sort by column number
+
+### **wc**
+* **Definition**
+  * Used for printing the number of lines, characters and bytes in a file
+* **Usage**
+  * wc + option + file
+* **Example**
+  * wc -m users.txt
+    * Display the number of characters in a file
+  * wc -w users.txt
+    * Display the number words in a file
